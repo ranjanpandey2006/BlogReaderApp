@@ -1,0 +1,18 @@
+/* Empty. Add your own CSS if you like */
+.bar-energized{
+box-shadow : 0px 5px 5px grey;
+}
+.item.item-avatar-left{
+border-top-left-radius:10px !important;
+border-top-right-radius:10px !important;
+background: lightblue;
+}
+.item.item-body img{
+	max-width : 100%;
+	max-height : 100%;
+}
+.textStyleClass{
+color: #7766ff;
+font-style:italic;
+font-family: "Times New Roman", Times, serif;
+}
